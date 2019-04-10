@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+# This ia my readme
+
+I am learning github
