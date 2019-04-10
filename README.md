@@ -1,3 +1,3 @@
-# This ia my readme
+# This is my readme
 
 I am learning github
